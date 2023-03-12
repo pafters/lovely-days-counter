@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/lovely-days-counter/static/css/main.939f0c39.css",
-    "main.js": "/lovely-days-counter/static/js/main.5191f1a0.js",
-    "static/js/787.92c7dc14.chunk.js": "/lovely-days-counter/static/js/787.92c7dc14.chunk.js",
+    "main.js": "/lovely-days-counter/static/js/main.5def3129.js",
+    "static/js/787.957faed0.chunk.js": "/lovely-days-counter/static/js/787.957faed0.chunk.js",
     "static/media/rotate-notification.png": "/lovely-days-counter/static/media/rotate-notification.efbcda4c0c5d7847f05d.png",
     "static/media/heart.png": "/lovely-days-counter/static/media/heart.f78e0d6969b03b174093.png",
     "index.html": "/lovely-days-counter/index.html",
     "main.939f0c39.css.map": "/lovely-days-counter/static/css/main.939f0c39.css.map",
-    "main.5191f1a0.js.map": "/lovely-days-counter/static/js/main.5191f1a0.js.map",
-    "787.92c7dc14.chunk.js.map": "/lovely-days-counter/static/js/787.92c7dc14.chunk.js.map"
+    "main.5def3129.js.map": "/lovely-days-counter/static/js/main.5def3129.js.map",
+    "787.957faed0.chunk.js.map": "/lovely-days-counter/static/js/787.957faed0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.939f0c39.css",
-    "static/js/main.5191f1a0.js"
+    "static/js/main.5def3129.js"
   ]
 }
