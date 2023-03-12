@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/lovely-days-counter/static/css/main.939f0c39.css",
-    "main.js": "/lovely-days-counter/static/js/main.912f5088.js",
+    "main.js": "/lovely-days-counter/static/js/main.534ac547.js",
     "static/js/787.957faed0.chunk.js": "/lovely-days-counter/static/js/787.957faed0.chunk.js",
     "static/media/rotate-notification.png": "/lovely-days-counter/static/media/rotate-notification.efbcda4c0c5d7847f05d.png",
     "static/media/heart.png": "/lovely-days-counter/static/media/heart.f78e0d6969b03b174093.png",
     "index.html": "/lovely-days-counter/index.html",
     "main.939f0c39.css.map": "/lovely-days-counter/static/css/main.939f0c39.css.map",
-    "main.912f5088.js.map": "/lovely-days-counter/static/js/main.912f5088.js.map",
+    "main.534ac547.js.map": "/lovely-days-counter/static/js/main.534ac547.js.map",
     "787.957faed0.chunk.js.map": "/lovely-days-counter/static/js/787.957faed0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.939f0c39.css",
-    "static/js/main.912f5088.js"
+    "static/js/main.534ac547.js"
   ]
 }
